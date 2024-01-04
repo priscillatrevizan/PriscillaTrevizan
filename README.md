@@ -8,9 +8,7 @@
 PriscillaTrevizan/PriscillaTrevizan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+## Contatos:
 
-[![Descrição da imagem](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg)](https://www.behance.net/priscillatrevizan){:height="100px" width="100px"}
-
-
-
+[![Behance](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg)](https://www.behance.net/priscillatrevizan)
 
