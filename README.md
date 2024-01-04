@@ -10,5 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 ## Contatos:
 
-[![Behance](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg)](https://www.behance.net/priscillatrevizan)
-
+<a href="https://discordapp.com/invite/seu-servidor-do-discord" target="_blank"><img loading="lazy" src="https://img.shields.io/discourse/pritrevizan." target="_blank"></a>
