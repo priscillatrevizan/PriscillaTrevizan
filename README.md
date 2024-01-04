@@ -9,6 +9,9 @@ PriscillaTrevizan/PriscillaTrevizan is a ✨ special ✨ repository because its 
 You can click the Preview link to take a look at your changes.
 --->
 
-<a href="https://www.behance.net/priscillatrevizan" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" /> </a>   
+<a href="https://www.behance.net/priscillatrevizan" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" width="100" height="100" />
+</a>
+
 
 
