@@ -8,10 +8,11 @@
 PriscillaTrevizan/PriscillaTrevizan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<a href="https://www.behance.net/priscillatrevizan"> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" width="40" height="40"/></a>
+##Languages && Tools
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg"  width="40" height="40"/>
 
 
-## Contatos:
 
-<a href="https://discordapp.com/invite/seu-servidor-do-discord" target="_blank"><img loading="lazy" src="https://img.shields.io/discourse/pritrevizan." target="_blank"></a>
-<img src= />
+
+## Contact:
+<a href="https://www.behance.net/priscillatrevizan"> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-plain.svg" width="40" height="40"/></a> <a href=https://www.linkedin.com/in/priscillatrevizan/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a> <a href=https://www.linkedin.com/in/priscillatrevizan/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>
