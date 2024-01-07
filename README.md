@@ -13,7 +13,7 @@
   <a href="#" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priscillatrevizan/" alt="LinkedIn"/></a>
   <a href="#" title="Behance">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=000000&logo=behance&logoColor=white&link=https://www.behance.net/priscillatrevizan" alt="WhatsApp"/></a>
+  <img src="https://img.shields.io/badge/-Behance-000000?style=flat-square&labelColor=000000&logo=behance&logoColor=white&link=https://www.behance.net/priscillatrevizan" alt="Behance"/></a>
   <a href="#" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/priscillatrevizan/" alt="Instagram"/></a>
 </p>
