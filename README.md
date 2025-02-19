@@ -4,7 +4,8 @@ export default {
   data() {
     return {
       nome: "Priscilla",
-      area: "Frontend Developer",
+      area: "Software Developer",
+      specialty: "Technologist in Systems Analysis and Development",
       work: "Onstoq",
       local: "Remoto",
       mainLanguages: ["JavaScript", "Vuejs", "CSS", "Nodejs", "..."],
@@ -12,7 +13,7 @@ export default {
       frameworks: ["Vue.js", "React.js", "..."]
     };
   },
-  mounted() {
+  onMounted() {
     console.log("I’m daily looking to collaborate with my knowledge and I am willing to exchange ideas!");
   }
 };
@@ -23,21 +24,12 @@ export default {
 ### Where to Find me:
 
 <p align="left">
-  <a href="mailto:priscillatrevizan.dev@gmail.com" title="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=plastic-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/priscillatrevizan/" title="LinkedIn">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=plastic-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.behance.net/priscillatrevizan" title="Behance">
-    <img src="https://img.shields.io/badge/-Behance-000000?style=plastic-square&labelColor=000000&logo=behance&logoColor=white" alt="Behance"/>
-  </a>
-  <a href="https://www.instagram.com/priscillatrevizan/" title="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=plastic-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://medium.com/@priscillatrevizan" title="Medium">
-    <img src="https://img.shields.io/badge/-Medium-000000?style=plastic-square&labelColor=000000&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
+<a href="https://dev.to/priscillatrevizan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="priscillatrevizan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/priscillatrevizan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priscillatrevizan" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/23203121/priscilla-trevizan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="priscillatrevizan" height="30" width="40" /></a>
+<a href="https://instagram.com/priscillatrevizan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="priscillatrevizan" height="30" width="40" /></a>
+<a href="https://www.behance.net/priscillatrevizan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="priscillatrevizan" height="30" width="40" /></a>
+<a href="https://medium.com/@priscillatrevizan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@priscillatrevizan" height="30" width="40" /></a>
 </p>
 
 > [!NOTE]
@@ -51,7 +43,7 @@ export default {
 
 **Intern Frontend Developer** \
 [**Onstoq**](https://www.onstoq.com/) • Full-time \
-Linguagens & Tecnologias: `Javascript`, `Vuejs`, `Tailwind`, `Nodejs`\
+Linguagens & Tecnologias: `Javascript`, `Typescript`, `Python`, `Nodejs`\
 Projetos em destaque: [Onstoq](https://www.onstoq.com/)
 
 <br/>
@@ -83,36 +75,27 @@ Projetos em destaque: [Onstoq](https://www.onstoq.com/)
 ---
 
 **Statistics**
+---
 
-<table>
-  <tr>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=priscillatrevizan&theme=radical"
-        alt="Github Stats"
-      />
-    </td>
-        <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=5"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=priscillatrevizan&theme=dark&hide_border=false&theme=radical"
-        alt="Github Streak Stats"
-      />
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=priscillatrevizan&theme=tokyonight" />
+</a>
+<a href="https://github.com/priscillatrevizan/API-Autentication">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=priscillatrevizan&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/priscillatrevizan/API-Autentication">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=priscillatrevizan&repo=API-Autentication&theme=tokyonight" />
+</a>
+<a href="https://github.com/priscillatrevizan/ignite-lab-design-system">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=priscillatrevizan&repo=ignite-lab-design-system&theme=tokyonight" />
+</a>
 
 
-[![GitHub](https://img.shields.io/github/followers/priscillatrevizan?label=follow&style=social)](LINK-DO-SEU-GITHUB)
 <br/>
-
-
+<a href="https://github.com/priscillatrevizan/github-readme-stats">
+<img align="center" src="https://img.shields.io/github/followers/priscillatrevizan?label=follow&style=social)"/>
+</a>
 
 
 ---
