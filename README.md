@@ -44,7 +44,15 @@ export default {
 **Intern Frontend Developer** \
 [**Onstoq**](https://www.onstoq.com/) • Full-time \
 Linguagens & Tecnologias: `Javascript`, `Typescript`, `Python`, `Nodejs`\
-Projetos em destaque: [Onstoq](https://www.onstoq.com/)
+Featured Onstoq Projects: [Onstoq](https://www.onstoq.com/)
+
+<br/>
+
+**Freelancer Developer** \
+2023 to date • Full-time \
+Featured Projects: [DanPiscinas](https://www.danpiscinas.com.br/) \
+Featured interface projects: [UI Design](https://linktr.ee/priscillatrevizan) 
+
 
 <br/>
 
