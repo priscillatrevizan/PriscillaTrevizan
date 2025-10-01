@@ -3,18 +3,22 @@
 export default {
   data() {
     return {
-      nome: "Priscilla",
-      area: "Software Developer",
-      specialty: "Technologist in Systems Analysis and Development",
+      name: "Priscilla",
+      area: "Web Developer",
+      specialty: "Modern and responsive front-end with fullstack integration.",
       work: "Onstoq",
-      local: "Remoto",
-      mainLanguages: ["JavaScript", "Vuejs", "CSS", "Nodejs", "..."],
-      libraries: ["Pinia", "VueRouter", "..."],
-      frameworks: ["Vue.js", "React.js", "..."]
+      local: "Remote",
+      mainLanguages: ["JavaScript", "Typescript", "CSS", "Nodejs", "Python"..."],
+      libraries: ["Pinia", "VueRouter","React.js" "..."],
+      frameworks: ["Vue.js", "Express", "..."]
     };
   },
   onMounted() {
-    console.log("I’m daily looking to collaborate with my knowledge and I am willing to exchange ideas!");
+    const life = "I love finding new ways to solve problems, make things simpler, and share what I learn along the way.
+    I’m curious about how things work and why they are the way they are. For me, sharing knowledge is the best way
+    to learn — and I believe learning never stops. Knowledge is power."
+
+    console.log(life);
   }
 };
 </script>
@@ -88,14 +92,24 @@ Featured interface projects: [UI Design](https://linktr.ee/priscillatrevizan)
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=priscillatrevizan&theme=tokyonight" />
 </a>
+<br>
 <a href="https://github.com/priscillatrevizan/API-Autentication">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=priscillatrevizan&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
 </a>
+<br>
 
+**Some public projects**
+---
+<a href="https://github.com/priscillatrevizan/orange-juice-bank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=priscillatrevizan&repo=orange-juice-bank&theme=tokyonight" />
+</a>
+<a href="https://github.com/priscillatrevizan/resume-template">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=priscillatrevizan&repo=resume-template&theme=tokyonight" />
+</a>
 <a href="https://github.com/priscillatrevizan/API-Autentication">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=priscillatrevizan&repo=API-Autentication&theme=tokyonight" />
 </a>
-<a href="https://github.com/priscillatrevizan/ignite-lab-design-system">
+<a href="https://github.com/priscillatrevizan/ignite-lab-design-systemn">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=priscillatrevizan&repo=ignite-lab-design-system&theme=tokyonight" />
 </a>
 
