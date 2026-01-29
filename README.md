@@ -4,6 +4,12 @@
 
 🚀 **Desenvolvedora Full Stack** com 2+ anos construindo CRMs, e-commerces e SPAs escaláveis. Background de 10+ anos em gestão aprimora visão de negócio, traduzindo requisitos em soluções intuitivas e impactantes. **Pós-graduada em Desenvolvimento Full Stack** e **Certificada Google em UX Design**, prioriza otimização de fluxos de usuário para maximizar resultados.
 
+</br>
+Conheça alguns projetos no meu Portifólio :
+https://priscillatrevizan.dev/
+
+</br>
+
 #### | Full Stack Dev (Vue.js/Node.js) ex-[ONSTOQ](https://onstoq.com/) (2anos)
 
 **🔥 Destaques**
