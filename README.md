@@ -54,11 +54,12 @@ https://priscillatrevizan.dev/
 
 ## 🔥 Projetos em Destaque
 <div align="center">
-<a href="https://github.com/priscillatrevizan/orange-juice-bank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=priscillatrevizan&repo=orange-juice-bank&theme=tokyonight" />
+
+  <a href="https://github.com/priscillatrevizan/VehicleRentalSystem/tree/master">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=priscillatrevizan&repo=VehicleRentalSystem&theme=tokyonight" />
 </a>
-<a href="https://github.com/priscillatrevizan/API-Autentication">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=priscillatrevizan&repo=API-Autentication&theme=tokyonight" />
+<a href="https://github.com/priscillatrevizan/resume-template">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=priscillatrevizan&repo=resume-template&theme=tokyonight" />
 </a>
 </div>
 </br>
