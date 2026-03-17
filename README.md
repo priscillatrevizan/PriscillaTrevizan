@@ -28,7 +28,7 @@ https://priscillatrevizan.dev/
 ## 🛠️ Stack Principal
 <div align="center">
 
-[![MinhasSkills](https://skillicons.dev/icons?i=vue,js,pinia,typescript,html,css,sass,tailwind,bootstrap)](https://skillicons.dev)
+[![MinhasSkills](https://skillicons.dev/icons?i=vue,js,pinia,html,css,sass,cs,dotnet,postgres)](https://skillicons.dev)
 
 </div>
 </br>
@@ -36,7 +36,7 @@ https://priscillatrevizan.dev/
 ## 📚 Outras Tecnologias & Ferramentas
 <div align="center">
   
-[![MinhasSkills](https://skillicons.dev/icons?i=react,nodejs,express,cs,postgres,mongodb,postman,docker,python,jest,gcp,figma,vite)](https://skillicons.dev)
+[![MinhasSkills](https://skillicons.dev/icons?i=react,typescript,nodejs,express,postgres,mongodb,postman,python,jest,gcp,figma,vite,tailwind,bootstrap,docker)](https://skillicons.dev)
 
 </div>
 </br>
