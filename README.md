@@ -12,7 +12,7 @@ https://priscillatrevizan.dev/
 
 #### | Full Stack Dev (React/Python) - [Easytelling](https://easytelling.ai/)
 
-#### | Full Stack Dev (Vue.js/Node.js) ex-[ONSTOQ](https://onstoq.com/) (2anos)
+#### | Full Stack Dev (Vue.js/Node.js) ex-[Onstoq](https://onstoq.com/) (2anos)
 
 **🔥 Destaques**
 - Liderei Projetos Frontend (ERP Vue.js), otimizando 80% processos operacionais.
@@ -45,9 +45,9 @@ https://priscillatrevizan.dev/
 
 ## 🚀 Experiências & Conquistas
 <div  text="justify">
-  
-- **ONSTOQ** `(Abr/2023 - Dez/2025)`: Desenvolvi interfaces Vue.js para CRM/e-commerce, integração Node.js/APIs, reduzindo 20% no tempo de carregamento e 80% em tarefas manuais.
-- **Freelancer** `(Jun/2023 - Atual)`: Apps fullstack (ex: DanPiscinas com 350+ itens JSON), UI/UX em Figma, entregas ágeis com foco em responsividade e automação.
+- **EasyTelling** `(Abr/2024 - Atual)`: implementações e evolução de funcionalidades em aplicações Full Stack  de aplicações web voltadas à tradução e disseminação de evidências científicas.
+- **Onstoq** `(Abr/2023 - Dez/2025)`: Desenvolvi interfaces Vue.js para CRM/e-commerce, integração Node.js/APIs, reduzindo 20% no tempo de carregamento e 80% em tarefas manuais.
+- **Nimbup** Freelancer -`(Jun/2023 - Atual)`: Apps fullstack (ex: DanPiscinas com 350+ itens JSON), UI/UX em Figma, entregas ágeis com foco em responsividade e automação.
 - **Elys** `(Voluntária, Jun/2024 - Atual)`: Frontend Developer, criando interfaces responsivas e colaborando com designers/produto.
 - **Destaques**: 1º lugar Hackathon Orange Juice (FCamara), Menção Honrosa NASA Space Apps 2022, +10 anos gestão (Qualiplas).
 
