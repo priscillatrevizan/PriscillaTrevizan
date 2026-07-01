@@ -10,6 +10,8 @@ https://priscillatrevizan.dev/
 
 </br>
 
+#### | Full Stack Dev (React/Python) - [Easytelling](https://easytelling.ai/)
+
 #### | Full Stack Dev (Vue.js/Node.js) ex-[ONSTOQ](https://onstoq.com/) (2anos)
 
 **🔥 Destaques**
