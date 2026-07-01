@@ -45,10 +45,11 @@ https://priscillatrevizan.dev/
 
 ## 🚀 Experiências & Conquistas
 <div  text="justify">
+  
 - **EasyTelling** `(Abr/2024 - Atual)`: implementações e evolução de funcionalidades em aplicações Full Stack  de aplicações web voltadas à tradução e disseminação de evidências científicas.
 - **Onstoq** `(Abr/2023 - Dez/2025)`: Desenvolvi interfaces Vue.js para CRM/e-commerce, integração Node.js/APIs, reduzindo 20% no tempo de carregamento e 80% em tarefas manuais.
 - **Nimbup** Freelancer -`(Jun/2023 - Atual)`: Apps fullstack (ex: DanPiscinas com 350+ itens JSON), UI/UX em Figma, entregas ágeis com foco em responsividade e automação.
-- **Elys** `(Voluntária, Jun/2024 - Atual)`: Frontend Developer, criando interfaces responsivas e colaborando com designers/produto.
+- **Elys** `(Voluntária, Nov/2025)`: Frontend Developer, criando interfaces responsivas e colaborando com designers/produto, Negócios, Criação de interfaces e Fluxo do Usuário.
 - **Destaques**: 1º lugar Hackathon Orange Juice (FCamara), Menção Honrosa NASA Space Apps 2022, +10 anos gestão (Qualiplas).
 
 </div>
