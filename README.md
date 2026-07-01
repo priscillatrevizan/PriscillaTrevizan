@@ -48,29 +48,10 @@ https://priscillatrevizan.dev/
   
 - **EasyTelling** `(Abr/2024 - Atual)`: implementações e evolução de funcionalidades em aplicações Full Stack  de aplicações web voltadas à tradução e disseminação de evidências científicas.
 - **Onstoq** `(Abr/2023 - Dez/2025)`: Desenvolvi interfaces Vue.js para CRM/e-commerce, integração Node.js/APIs, reduzindo 20% no tempo de carregamento e 80% em tarefas manuais.
-- **Nimbup** Freelancer -`(Jun/2023 - Atual)`: Apps fullstack (ex: DanPiscinas com 350+ itens JSON), UI/UX em Figma, entregas ágeis com foco em responsividade e automação.
+- **Nimbup** `Freelancer` - `(Jun/2023 - Atual)`: Apps fullstack (ex: DanPiscinas com 350+ itens JSON), UI/UX em Figma, entregas ágeis com foco em responsividade e automação.
 - **Elys** `(Voluntária, Nov/2025)`: Frontend Developer, criando interfaces responsivas e colaborando com designers/produto, Negócios, Criação de interfaces e Fluxo do Usuário.
 - **Destaques**: 1º lugar Hackathon Orange Juice (FCamara), Menção Honrosa NASA Space Apps 2022, +10 anos gestão (Qualiplas).
 
-</div>
-</br>
-
-## 🔥 Projetos em Destaque
-<div align="center">
-
-  <a href="https://github.com/priscillatrevizan/VehicleRentalSystem/tree/master">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=priscillatrevizan&repo=VehicleRentalSystem&theme=tokyonight" />
-</a>
-<a href="https://github.com/priscillatrevizan/resume-template">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=priscillatrevizan&repo=resume-template&theme=tokyonight" />
-</a>
-</div>
-</br>
-
-## 📊 Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=priscillatrevizan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priscillatrevizan&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 </br>
 
