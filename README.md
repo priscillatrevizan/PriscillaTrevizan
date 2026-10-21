@@ -1,81 +1,61 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Olá!+Eu+sou+Priscilla+Trevizan;Desenvolvedora+Full+Stack+%F0%9F%90%89;Especialista+em+Vue.js+%2B+Node.js;+UX%2FUI%2C+C%23+%26+DevSecOps;+10%2B+anos+de+gestão++de+negócios;Criative+Code+%26+Criative+Design+❤️;acesse+priscillatrevizan%2Edev" alt="Typing SVG" />
-</div>
+<h1 align="center">Priscilla Trevizan</h1>
 
-🚀 **Desenvolvedora Full Stack** com 2+ anos construindo CRMs, e-commerces e SPAs escaláveis. Background de 10+ anos em gestão aprimora visão de negócio, traduzindo requisitos em soluções intuitivas e impactantes. **Pós-graduada em Desenvolvimento Full Stack** e **Certificada Google em UX Design**, prioriza otimização de fluxos de usuário para maximizar resultados.
-
-</br>
-Conheça alguns projetos no meu Portifólio :
-https://priscillatrevizan.dev/
-
-</br>
-
-#### | Full Stack Dev (React/Python) - [Easytelling](https://easytelling.ai/)
-
-#### | Full Stack Dev (Vue.js/Node.js) ex-[Onstoq](https://onstoq.com/) (2anos)
-
-**🔥 Destaques**
-- Liderei Projetos Frontend (ERP Vue.js), otimizando 80% processos operacionais.
-- Refatorei CRM reduzindo load 35%, bugs 30% via SOLID/reviews [Demo](https://onstoq.com/store)
-- Catálogo DanPiscinas: SPA Vue com 350+ itens JSON [Demo](https://www.danpiscinas.com.br/)
-- Hackathons: 1º Orange Juice, Menção Honrosa NASA Space Apps 2022
-
-> [!NOTE]  
-> Discord: **pritrevizan** | 📍 União da Vitória, PR (Remoto) | 🌐 [Portfolio](https://priscillatrevizan.dev/)
-</br>
-
-💼 Vamos automatizar negócios?
-</br>
-
-## 🛠️ Stack Principal
-<div align="center">
-
-[![MinhasSkills](https://skillicons.dev/icons?i=vue,js,pinia,html,css,sass,cs,dotnet,postgres)](https://skillicons.dev)
-
-</div>
-</br>
-
-## 📚 Outras Tecnologias & Ferramentas
-<div align="center">
-  
-[![MinhasSkills](https://skillicons.dev/icons?i=react,typescript,nodejs,express,postgres,mongodb,postman,python,jest,gcp,figma,vite,tailwind,bootstrap,docker)](https://skillicons.dev)
-
-</div>
-</br>
-
-## 🚀 Experiências & Conquistas
-<div  text="justify">
-  
-- **EasyTelling** `(Abr/2024 - Atual)`: implementações e evolução de funcionalidades em aplicações Full Stack  de aplicações web voltadas à tradução e disseminação de evidências científicas.
-- **Onstoq** `(Abr/2023 - Dez/2025)`: Desenvolvi interfaces Vue.js para CRM/e-commerce, integração Node.js/APIs, reduzindo 20% no tempo de carregamento e 80% em tarefas manuais.
-- **Nimbup** `Freelancer` - `(Jun/2023 - Atual)`: Apps fullstack (ex: DanPiscinas com 350+ itens JSON), UI/UX em Figma, entregas ágeis com foco em responsividade e automação.
-- **Elys** `(Voluntária, Nov/2025)`: Frontend Developer, criando interfaces responsivas e colaborando com designers/produto, Negócios, Criação de interfaces e Fluxo do Usuário.
-- **Destaques**: 1º lugar Hackathon Orange Juice (FCamara), Menção Honrosa NASA Space Apps 2022, +10 anos gestão (Qualiplas).
-
-</div>
-</br>
-
-## 🌐 Onde Me Encontrar
 <p align="center">
-  <a href="https://dev.to/priscillatrevizan"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/priscillatrevizan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://stackoverflow.com/users/23203121/priscilla-trevizan"><img src="https://img.shields.io/badge/Stack%20Overflow-FE7A15?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
-  <a href="https://instagram.com/priscillatrevizan"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.behance.net/priscillatrevizan"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" /></a>
-  <a href="https://medium.com/@priscillatrevizan"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <b>Desenvolvedora Full Stack</b><br>
+  Python · React · TypeScript · Vue.js · Node.js · IA Generativa · GCP
 </p>
-</br>
-<!---
+
+<p align="center">
+  <a href="https://linkedin.com/in/priscillatrevizan">LinkedIn</a> ·
+  <a href="https://dev.to/priscillatrevizan">Dev.to</a> ·
+  <a href="https://medium.com/@priscillatrevizan">Medium</a> ·
+  <a href="https://www.behance.net/priscillatrevizan">Behance</a> ·
+  <a href="https://stackoverflow.com/users/23203121/priscilla-trevizan">Stack Overflow</a>
+</p>
+
+## Sobre
+
+Desenvolvedora Full Stack com cerca de 3 anos construindo produtos B2B: agentes de IA com LLMs e RAG, SaaS multi-tenant, plataforma de cotações e e-commerce. Tenho 10+ anos de background em gestão administrativo-financeira e de RH, o que me dá visão de negócio e facilidade para traduzir requisitos em soluções. Pós-graduada em Desenvolvimento Full Stack e certificada Google em UX Design.
+
+📍 Barra Velha, SC (Remoto)
+
+## Experiência
+
+- **EasyTelling** `(Abr/2026 - atual)` · Full Stack (Python, React/TypeScript, GCP): agentes de IA com LLMs e RAG com citação verificável de fontes, arquitetura multi-tenant, billing com Stripe e testes automatizados (pytest, Playwright).
+- **ONSTOQ** `(Abr/2024 - Jan/2026)` · Full Stack Jr (Vue 3, Pinia, Node.js): plataforma de cotações B2B (QuoteMeister), e-commerce B2B (Stripe, PIX, GTM) e Design System.
+- **Freelance** `(Jun/2023 - atual)` · Full Stack e UI/UX: catálogo Dan Piscinas (Vue 3, ~350 produtos), landing pages e mockups no Figma.
+- **Elys Tech** `(Voluntária, Dez/2023 - Nov/2025)` · UI/UX e Front-end: interfaces responsivas em colaboração com design e produto.
+
+## 🔥 Destaques
+
+- Latência de um classificador de IA de ~23 s para ~2,5 s e redução de até 93% no consumo de tokens em conversa longa real (43 turnos).
+- Plataforma de cotações B2B: tempo de cotação de 30-60 min para cerca de 10-25 min (estimativa).
+- Testes do zero com pytest e Playwright (32 cenários E2E) e CI/CD com GitHub Actions.
+- Hackathons: 1º lugar Orange Juice (FCamara) e Menção Honrosa NASA Space Apps 2022.
+
+## 🧩 Projetos
+
+<!-- Adicione os links dos repositórios públicos -->
+- [Opa, tem vaga!](https://opa-tem-vaga.vercel.app) · portal de vagas com curadoria pessoal (React, Firebase, Vercel).
+- **RentGo** · API REST de locação de veículos (.NET 8, EF Core, PostgreSQL, testes). [repositório](LINK_DO_REPO)
+- **Resume Template** · currículo web open source com exportação para PDF (React, TypeScript). [repositório](LINK_DO_REPO)
+- **Dan Piscinas** · catálogo SPA em Vue 3 para cliente. [Demo](https://www.danpiscinas.com.br/)
+
+## 🛠️ Stack principal
+
 <div align="center">
-  <img src="https://img.shields.io/badge/⭐-Meus%20repositórios%20favoritos-6f46c1?style=for-the-badge&logo=github&logoColor=white" />
+
+[![Stack principal](https://skillicons.dev/icons?i=python,fastapi,react,typescript,vue,nodejs,postgres,gcp,docker,githubactions,terraform,redis)](https://skillicons.dev)
+
 </div>
-</br>
-</br>--->
+
+## 📚 Também uso
+
+<div align="center">
+
+[![Outras tecnologias](https://skillicons.dev/icons?i=js,html,css,sass,tailwind,express,pinia,cs,dotnet,vite,postman,git,figma)](https://skillicons.dev)
+
+</div>
 
 ---
-<div align="center">Feito com ❤️ por Priscilla Trevizan 👩‍💻 | Aberta a oportunidades Frontend & Full Stack!</div>
-
-<!---
-PriscillaTrevizan/PriscillaTrevizan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">Feito por Priscilla Trevizan 👩‍💻</div>
